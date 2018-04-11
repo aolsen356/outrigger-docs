@@ -4,7 +4,7 @@ Easy containerized development environments based on Docker
 
 The various projects within the Outrigger ecosystem provide simple to manage
 project environments for any technology and deployment architecture. These
-environments are based upon Docker and Outrigger helps you tie the pieces
+environments are based upon Docker, Outrigger helps you tie the pieces
 together to provide a stable foundation for project work that includes:
 
 * A Docker Machine based VM
